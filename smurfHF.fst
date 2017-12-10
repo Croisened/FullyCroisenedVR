@@ -1,7 +1,7 @@
 name = smurfHF
 type = body+head
 scale = 1
-filename = smurfHF/smurfHF.fbx
+filename = fcmodels/smurfHF.fbx
 texdir = smurfHF/textures
 joint = jointNeck = Neck
 joint = jointRoot = Hips
